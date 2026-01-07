@@ -1,0 +1,6 @@
+[submodule "AnimalRescueFrontend"]
+	path = AnimalRescueFrontend
+	url = git@github.com:rajnk654/AnimalRescueFrontend.git
+[submodule "Animal-Rescue"]
+	path = Animal-Rescue
+	url = git@github.com:rajnk654/Animal-Rescue.git
